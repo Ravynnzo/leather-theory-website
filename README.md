@@ -225,7 +225,7 @@ return ( <div className="min-h-screen bg-[#120d09] text-white font-sans overflow
         </button>
 
         <p className="mt-5 text-black/70 font-medium">
-          Call or text: (123) 456-7890
+          Please text: 315-526-5959
         </p>
       </div>
     </div>
