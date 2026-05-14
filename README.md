@@ -1,6 +1,7 @@
 # leather-theory-website
-Add file → Upload files
-export default function LeatherCleaningWebsite() { const services = [ { title: 'Deep Cleaning', text: 'Remove dirt, oils, and buildup without drying or cracking leather.', icon: '🧼', }, { title: 'Stain Removal', text: 'Target tough stains and discoloration with safe restoration methods.', icon: '✨', }, { title: 'Conditioning', text: 'Keep leather soft, rich, and protected against future wear.', icon: '🛡️', }, { title: 'Interior Detailing', text: 'Luxury treatment for leather car seats and vehicle interiors.', icon: '🚘', }, ];
+app
+page.jsx
+export default function Page() { const services = [ { title: 'Deep Cleaning', text: 'Remove dirt, oils, and buildup without drying or cracking leather.', icon: '🧼', }, { title: 'Stain Removal', text: 'Target tough stains and discoloration with safe restoration methods.', icon: '✨', }, { title: 'Conditioning', text: 'Keep leather soft, rich, and protected against future wear.', icon: '🛡️', }, { title: 'Interior Detailing', text: 'Luxury treatment for leather car seats and vehicle interiors.', icon: '🚘', }, ];
 
 const reviews = [ { name: 'Amanda R.', text: 'My leather couch looked brand new again. Super professional and easy to work with.', }, { name: 'Marcus T.', text: 'The car interior cleanup was incredible. You can tell they actually care about quality.', }, { name: 'Jasmine L.', text: 'Fast service, great communication, and the results honestly shocked me.', }, ];
 
